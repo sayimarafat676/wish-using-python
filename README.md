@@ -63,3 +63,9 @@ Check the HELP.txt file to make any changes in the text of the art. Replace the 
 
 
 Give me a Star 🌟 if you're impressed with my work!
+
+> Bye
+> 
+>Thank you for using this Python Birthday Wish Wrapper.
+<h4>Give me a Star 🌟,If you impressed with my work</h4>
+
