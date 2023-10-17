@@ -57,8 +57,9 @@ Disclaimer
 Check the HELP.txt file to make any changes in the text of the art. Replace the friend's name and follow the sample alphabet provided.
 
 
-"Goodbye!" 
-Thank you for using this Python Birthday Wish Wrapper.
+>"Goodbye!" 
+
+>Thank you for using this Python Birthday Wish Wrapper.
 
 
 Give me a Star 🌟 if you're impressed with my work!
