@@ -1,45 +1,68 @@
-# Birthday-Wish-using-Python
-<h1>This is a Python wrapper for sending birthday wishes!</h1> 
-Made by *Saim* Use this wrapper to send birthday wishes to your friend in a unique way using Python.  
-Firstly, what do you have to do? You have to install the required packages, don't worry about the code and blabla things.
-I made it simple for you.
+# Birthday Wish using Python 🎉
 
-<!--"""<h5>Watch the preview video before proceeding. You can watch it on [YouTube](https://youtu.be/smlSfCLHlS0) or directly in the [video link](https://youtu.be/smlSfCLHlS0).</h5>
-""" -->
-Download this wrapper, extract it, and open the folder. Open the terminal in this location, and run
-# In case you are using your mobile, install the Termux app and follow method 2 named as 👉 There is another method to run.  Scroll down to see
+![Birthday Art](link-to-your-image.png)
 
-**_pip install -r requirements.txt_**   
+## A Python Wrapper for Unique Birthday Wishes
 
-Don't forget to connect to the internet on your laptop (this will take a while).....  
-Then make changes in the art files located in the 'arts' folder. I have provided plain art for you and plain art with extra decorations to add colors to your wish.    
-Change the 'art file' in `config.py`; it is set to default, change it to 'plain art' or 'plain art with stars', where you made the changes and added colors.  
-Follow the color codes to add colors.    
+Created by *Lakshmi Deepak* with ❤️
 
-You can change the speed of art in `config.py` by reducing the 'speed' value to increase the speed of art. The same goes for coding speed too; 0.001 is the default value.
+Make your friend's birthday extra special with this Python wrapper that creates unique and personalized birthday wishes. Don't worry about complicated code; I've made it simple for you.
 
-Finally, run the command:
+<!--### Preview Video
+Watch the preview video on [YouTube](https://youtu.be/smlSfCLHlS0) or in the repository.
+-->
 
-**_python3 main.py_**        
+### Installation
 
-in the terminal to see the art...  
+1. **Download and Extract:**
+   Download the wrapper, extract it, and open the folder.
 
-<h1>There is another method to run</h1>
-Open the terminal, copy and paste the command:
+2. **Open Terminal:**
+   Open the terminal in the extracted location.
 
- **_git clone https://github.com/mssaim7777/wish-using-python.git_**
- 
- Then run the following commands
- 
- **_cd wish-using-python_**
- 
- Install the requirements as mentioned before and follow the procedure because the same procedure starts from here...
- 
- 
-  <h5>Disclaimer:-</h5>
-        See the HELP.txt, if you want to make any changes in text in the art, like changing the name. Here, I put my friend's name, so edit it to your friend's name. I made all the sample alphabets there, so you can follow from that.
+3. **Install Requirements:**
+   Run the following command:
+   ```bash
+   pip install -r requirements.txt
 
-> Bye
-> 
->Thank you 
-<h4>Give me a Star 🌟, if you are impressed with my work</h4>
+
+
+Make sure your laptop is connected to the internet as this may take a while.
+
+Modify Art Files:
+Open the 'arts' folder and customize the art files. There is plain art and art with extra decorations. Choose the one you like.
+
+Configure:
+In the config.py file, change the "art file" to your chosen art "plainart" . Follow the color codes to add colors.
+
+Adjust Speed:
+Change the speed of the art in config.py by modifying the speed value. A lower value increases the speed of the art.
+
+Run:
+Execute the following command:
+
+    ```bash
+    python3 main.py
+    ```
+
+    Watch the magic happen in your terminal!
+
+## Alternative Method
+
+If you prefer using Git:
+```bash
+git clone https://github.com/mssaim7777/wish-using-python.git
+cd wish-using-python
+pip install -r requirements.txt
+python3 main.py
+```
+
+Disclaimer
+Check the HELP.txt file to make any changes in the text of the art. Replace the friend's name and follow the sample alphabet provided.
+
+
+"Goodbye!" 
+Thank you for using this Python Birthday Wish Wrapper.
+
+
+Give me a Star 🌟 if you're impressed with my work!
