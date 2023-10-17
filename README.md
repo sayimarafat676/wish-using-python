@@ -53,7 +53,7 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-##**Disclaimer**
+**Disclaimer**
 Check the HELP.txt file to make any changes in the text of the art. Replace the friend's name and follow the sample alphabet provided.
 
 
