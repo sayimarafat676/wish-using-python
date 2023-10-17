@@ -27,16 +27,16 @@ Watch the preview video on [YouTube](https://youtu.be/smlSfCLHlS0) or in the rep
 
 Make sure your laptop is connected to the internet as this may take a while.
 
-Modify Art Files:
+**Modify Art Files:**
 Open the 'arts' folder and customize the art files. There is plain art and art with extra decorations. Choose the one you like.
 
-Configure:
+**Configure:**
 In the config.py file, change the "art file" to your chosen art "plainart". Follow the color codes to add colors.
 
-Adjust Speed:
+**Adjust Speed:**
 Change the speed of the art in config.py by modifying the speed value. A lower value increases the speed of the art.
 
-Run:
+**Run:**
 Execute the following command:
 
         python3 main.py
