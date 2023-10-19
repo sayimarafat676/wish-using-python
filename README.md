@@ -1,6 +1,5 @@
 # Birthday Wish using Python 🎉
 
-![Birthday Art](link-to-your-image.png)
 
 ## A Python Wrapper for Unique Birthday Wishes
 
