@@ -54,7 +54,7 @@ python3 main.py
 ```
 
 **Disclaimer**
-Check the HELP.txt file to make any changes in the text of the art. Replace the friend's name and follow the sample alphabet provided.
+Check the help.txt file to make any changes in the text of the art. Replace the friend's name and follow the sample alphabet provided.
 
 
 >"Goodbye!" 
