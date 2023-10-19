@@ -3,12 +3,12 @@
 
 ## A Python Wrapper for Unique Birthday Wishes
 
-Created by *Lakshmi Deepak* with ❤️
+Created by *Mr Saim"
 
 Make your friend's birthday extra special with this Python wrapper that creates unique and personalized birthday wishes. Don't worry about complicated code; I've made it simple for you.
 
 <!--### Preview Video
-Watch the preview video on [YouTube](https://youtu.be/smlSfCLHlS0) or in the repository.
+Watch the preview video on [YouTube](___) or in the repository.
 -->
 
 ### Installation
