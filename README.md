@@ -46,7 +46,7 @@ Watch the magic happen in your terminal!
 
 If you prefer using Git:
 ```bash
-git clone https://github.com/mssaim7777/wish-using-python.git
+git clone https://github.com/inspiretech-code/wish-using-python.git
 cd wish-using-python
 pip install -r requirements.txt
 python3 main.py
